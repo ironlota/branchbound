@@ -40,7 +40,7 @@ cd branchbound-master
 ```
 
 ### How to make a matrix file for TSP
-- Create new file in txt like this
+- Create new file in txt like this [99999 stands for infinite, it will block the edge creation in same node]
 
     For reduced cost matrix :
     ```
@@ -59,7 +59,7 @@ cd branchbound-master
         16 4 7 16 99999
     ```
 
-    For completed tour
+    For completed tour :
     ```
         CompletedTour
 
