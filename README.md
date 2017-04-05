@@ -74,7 +74,7 @@ cd branchbound-master
         5 8 15 99999
     ```
 
-- Save as txt file
+- Save as txt file in directory "./data/testcase"
 - Then, open MainClassForm.java
 - Find this code on line 82 [0 for Reduce Cost Matrix and 1 for Completed Tour]
 ```
