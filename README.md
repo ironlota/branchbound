@@ -8,6 +8,11 @@ TSP Solution with Branch and Bound approach using :
 
 These application is requirements for Algortihm Strategy class.
 
+Feature :
+- Simulating best path
+- Screenshot graph to external file in folder "./screenshot"
+- Print Weight Matrix in Table
+
 ## Screenshot
 ![Graph1](https://raw.githubusercontent.com/ironlota/branchbound/master/image/ss1.png)
 ![WeightMatrix](https://raw.githubusercontent.com/ironlota/branchbound/master/image/ss2.png)
