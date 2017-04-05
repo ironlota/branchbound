@@ -91,12 +91,9 @@ cd branchbound-master
  [line 101]  }
 ```
 
-### To do and Bug
-
-```
-JFileChooser and JComboBox usable but not functional (still fighting with thread)
-Completed GUI still in WIP
-```
+## To do and Bug
+- JFileChooser and JComboBox usable but not functional (still fighting with thread)
+- Completed GUI still in WIP
 
 ## Credits
 - [Graphstream](https://github.com/graphstream) [gs-core and gs-ui needed]
