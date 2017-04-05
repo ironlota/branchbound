@@ -1,0 +1,29 @@
+graph {
+	fill-color: white;
+}
+
+node {
+	size: 20px;
+	shape: circle;
+	fill-color: #d81b60;
+    text-color: #ffffff;
+    stroke-mode: plain;
+    stroke-width: 2;
+    stroke-color: #e3f2fd;
+}
+
+node.marked {
+	fill-color: #f48fb1;
+}
+
+edge {
+    fill-color: #29b6f6;
+}
+
+edge.marked {
+    fill-color: #b71c1c;
+}
+
+node#A {
+	fill-color: #e65100;
+}
