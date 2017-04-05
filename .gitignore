@@ -34,13 +34,13 @@
 # Docs PDF and other things
 *.pdf
 *.xml
-*.png
 *.docx
 *.zip
 
 # Directories
 bin/
 docs/
+screenshot/
 
 # Intellij Project
 .idea/

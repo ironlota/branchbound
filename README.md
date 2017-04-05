@@ -1,8 +1,11 @@
-# Calculated
+# Branch Bound
 
 TSP Solution with Branch and Bound approach using :
 - Reduce Cost Matrix
 - Completed Tour
+
+## Screenshot
+
 
 ## Getting Started
 
