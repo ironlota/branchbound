@@ -5,7 +5,9 @@ TSP Solution with Branch and Bound approach using :
 - Completed Tour
 
 ## Screenshot
-
+![Graph1](https://raw.githubusercontent.com/ironlota/branchbound/master/image/ss1.png)
+![WeightMatrix](https://raw.githubusercontent.com/ironlota/branchbound/master/image/ss2.png)
+![Graph2](https://raw.githubusercontent.com/ironlota/branchbound/master/image/ss3.png)
 
 ## Getting Started
 
