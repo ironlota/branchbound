@@ -14,7 +14,7 @@ What things you need to install the software and how to install them
 
 ```
 Installed :
-- [Java Development Kit (version > 7.0)](http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html)
+- Java Development Kit (version > 7.0)
 - Java IDE (Intellij, Netbeans, or Eclipse)
 ```
 
@@ -22,8 +22,9 @@ What things you need to include in project :
 
 ```
 Libraries :
-- [Graphstream](https://github.com/graphstream) [gs-core and gs-ui needed]
-- [JTattoo](http://www.jtattoo.net/) [for Eyecandy]
+- Graphstream - [library for Graph]
+- JTattoo     - [library for Eyecandy]
+```
 
 ### Installing
 
@@ -32,6 +33,10 @@ wget [https://github.com/ironlota/branchbound/archive/master.zip](https://github
 unzip master.zip
 cd branchbound-master
 ```
+
+## Credits
+- [Graphstream](https://github.com/graphstream) [gs-core and gs-ui needed]
+- [JTattoo](http://www.jtattoo.net/) [for Eyecandy]
 
 ## Version
 
