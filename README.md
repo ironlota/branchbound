@@ -14,9 +14,9 @@ Feature :
 - Print Weight Matrix in Table
 
 ## Screenshot
-![Graph1](https://raw.githubusercontent.com/ironlota/branchbound/master/image/ss1.png)
-![WeightMatrix](https://raw.githubusercontent.com/ironlota/branchbound/master/image/ss2.png)
-![Graph2](https://raw.githubusercontent.com/ironlota/branchbound/master/image/ss3.png)
+![Graph1](https://raw.githubusercontent.com/rayandrews/branchbound/master/image/ss1.png)
+![WeightMatrix](https://raw.githubusercontent.com/rayandrews/branchbound/master/image/ss2.png)
+![Graph2](https://raw.githubusercontent.com/rayandrews/branchbound/master/image/ss3.png)
 
 ### Prerequisites
 
@@ -39,7 +39,7 @@ Libraries :
 ### Installing
 
 ```
-wget [https://github.com/ironlota/branchbound/archive/master.zip](https://github.com/ironlota/branchbound/archive/master.zip)
+wget [https://github.com/rayandrews/branchbound/archive/master.zip](https://github.com/rayandrews/branchbound/archive/master.zip)
 unzip master.zip
 cd branchbound-master
 ```
@@ -110,7 +110,7 @@ cd branchbound-master
 
 ## Authors
 
-* **Ray Andrew** - [Ironlota](https://github.com/ironlota)
+* **Ray Andrew** - [Ray Andrew](https://github.com/rayandrews)
 
 ## License
 
